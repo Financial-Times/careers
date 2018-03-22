@@ -44,5 +44,6 @@ All of our employees, regardless of contract status, enjoy flexible working hour
 work from home when needed.
 
 
-More on (what it's like to work in FT Tech)[https://twitter.com/lc512k/status/933748080356265985]
+More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
+
 **You can send us your cv at laura.carvajal@ft.com. Direct applicants only, please.**
