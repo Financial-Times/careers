@@ -1,5 +1,5 @@
-Senior Developer - FT Tech GDPR Team - Internal Products)
-=========================================================
+Senior Developer - FT Tech GDPR Team - Internal Products
+========================================================
 Rolling 6mo Contract (perm roles available too) 
 
 We're looking for a software developer to join our team who shares our love for the web, our passion for performance
@@ -42,3 +42,6 @@ Contractor Benefits:
 --------------------
 All of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to
 work from home when needed.
+
+
+**Send us your cv at laura.carvajal@ft.com if you're interested. Direct applicants only, please.**
