@@ -1,6 +1,5 @@
-Senior Developer - FT Tech GDPR Team - Internal Products
-========================================================
-Rolling 6mo Contract (perm roles available too) 
+Hi there! 👋 FT Tech here
+============
 
 We're looking for a software developer to join our team who shares our love for the web, our passion for performance
 and our commitment to accessibility.
