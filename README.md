@@ -1,6 +1,8 @@
 Hi! 👋 We're FT Tech
 ============
 
+In FT Tech we develop products like FT.com, an award-winning website and one of the fastests new sites in the world. But we also develop services you may have used in web development, like (Polyfill.io)[https://polyfill.io/v2/docs/] or our component library (Origami)[http://origami.ft.com/]. We work with (AR)[https://labs.ft.com/experiment/2017/06/06/inklink.html], and we're building an intelligent chatbot that helps you find your way around the company.
+
 We're looking for a software developer to join our team who shares our love for the web, our passion for performance
 and our commitment to accessibility.
 
