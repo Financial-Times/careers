@@ -1,4 +1,4 @@
-Hi there! 👋 FT Tech here
+Hi! 👋 We're FT Tech
 ============
 
 We're looking for a software developer to join our team who shares our love for the web, our passion for performance
