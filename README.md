@@ -45,10 +45,9 @@ Benefits:
 All of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to
 work from home when needed.
 
-Benefits of our permanent roles include 
+Benefits of our permanent roles also include: 
 - 25 days of holiday (30 after 2 years)
 - Flexi days
-- Work-from-home flexibility
 - 35h workweek
 - Charity giving and sponsorship: We match what you raise up to £500 and help you promote your cause
 - Give as you earn
@@ -63,4 +62,6 @@ Benefits of our permanent roles include
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
 
-**You can send us your cv at laura.carvajal@ft.com. Direct applicants only, please.**
+Have any questions or want to send us your CV? Email laura.carvajal@ft.com 
+
+Direct applicants only, please.
