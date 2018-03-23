@@ -12,7 +12,7 @@ We're looking for a software developer to join our teams; someone who shares our
 and our commitment to accessibility. We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
 
 Our ideal candidate will bring a unique point of view to the work that we do. We don't hire for team fit, we hire
-for team betterment. We firmly believe that diverse perspectives help us build a great product, and an even better team.
+for team betterment. We firmly believe that diverse perspectives help us build a great product, and an even better team. Learn more [about us](https://aboutus.ft.com/en-gb/careers/our-people/).
 
 There are three types of work involved in this role:
 ----------------------------------------------------
