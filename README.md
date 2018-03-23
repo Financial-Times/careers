@@ -3,14 +3,13 @@ Hi! 👋 We're FT Tech
 
 In FT Tech we develop products like FT.com, our award-winning website and one of the fastests new sites in the world.
 
-We also develop services you may have used, like [Polyfill.io](https://polyfill.io/v2/docs/) or [Origami](http://origami.ft.com/). We work with [AR](https://labs.ft.com/experiment/2017/06/06/inklink.html), and we're building an intelligent chatbot that helps new starters find their way around the company. **Want to join our team?**
+We also develop services you may have used, like [Polyfill.io](https://polyfill.io/v2/docs/) or [Origami](http://origami.ft.com/). We work with [AR](https://labs.ft.com/experiment/2017/06/06/inklink.html), and we're building an intelligent chatbot that helps new starters find their way around the company. [**Want to join our team?**](#ft-tech-developer)
 
-We're looking for a software developer to join our team who shares our love for the web, our passion for performance
-and our commitment to accessibility.
 
-Internal Products FT is a team comprised of 50+ developers working in small cross-functional teams of 4-6 people,
-with opportunities to rotate internally and learn new technologies. The systems we build range from internal tools,
-client-facing applications, APIs, and more.
+FT Tech Developer 
+----
+We're looking for a software developer to join our teams; someone who shares our love for the web, our passion for performance
+and our commitment to accessibility. We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
 
 Our ideal candidate will bring a unique point of view to the work that we do. We don't hire for team fit, we hire
 for team betterment. We firmly believe that diverse perspectives help us build a great product, and an even better team.
@@ -41,11 +40,26 @@ to be rigorous but friendly (we don’t do whiteboard coding or peer over your s
 We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see 
 applications from underrepresented backgrounds. 
 
-Contractor Benefits:
---------------------
+Benefits:
+---------
 All of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to
 work from home when needed.
 
+Benefits of our permanent roles include 
+- 25 days of holiday (30 after 2 years)
+- Flexi days
+- Work-from-home flexibility
+- 35h workweek
+- Charity giving and sponsorship: We match what you raise up to £500 and help you promote your cause
+- Give as you earn
+- Generous pension plan
+- 24h employee wellbeing services, including counseling on financial, physical and mental health
+- Season ticket loan
+- Cycle to work scheme
+- Discounted gym membership at Nuffield Health
+- Group Income Protection and Life Assurance
+- Free private healthcare with Bupa
+- Dental scheme, eyecare vouchers
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
 
