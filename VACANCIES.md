@@ -13,9 +13,9 @@ Hi, here's a list of all the open developer jobs at the FT.
 
 [Cloud Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Network-Engineer_JR001505) - Southwark Bridge, permanent, ref: JR001505
 
-[Senior Developer, FT.com](#) - Southwark Bridge, contract, ref: CRA-0422747
+[Senior Developer, FT.com](#) - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._
 
-[Senior Software Engineer, Email](#) Southwark Bridge, contract, ref: CRA-0422830
+[Senior Software Engineer, Email](#) - Southwark Bridge, contract, ref: CRA-0422830
 
 ## Sofia, Bulgaria 🇧🇬
 
@@ -30,3 +30,5 @@ Hi, here's a list of all the open developer jobs at the FT.
 ----
 
 Find out more about the FT & how to apply on the [careers page](https://github.com/Financial-Times/careers).
+
+No agencies. Thanks.
