@@ -1,51 +1,46 @@
-Hi! 👋 We're FT Tech
-============
+# Hi! 👋 We're FT Tech
 
-In FT Tech we develop products like FT.com, our award-winning website and one of the fastest news sites in the world.
+In FT Tech we develop products like FT.com, our [award-winning website](https://aboutus.ft.com/en-gb/announcements/ft-technology-wins-at-devops-digiday-awards/) and one of the [fastest news sites](https://webperf.xyz/) in the world. We are firm supporters of open source and develop more and more of our projects [in the open](https://github.com/Financial-Times) every day. Some of our most widely used OSS are [Polyfill.io](https://polyfill.io/v2/docs/) and [Origami](http://origami.ft.com/).
 
-We also develop services you may have used, like [Polyfill.io](https://polyfill.io/v2/docs/) or [Origami](http://origami.ft.com/). We work with [AR](https://labs.ft.com/experiment/2017/06/06/inklink.html), and we're building an intelligent chatbot that helps new starters find their way around the company. [**Want to join our team?**](#ft-tech-developer)
+We are hundreds of developers, but our teams are small, self-governing and multi-disciplined, empowered to choose our own tech stack and to continuously deploy our software, sometimes hundreds of times a day.
 
+Our projects are widely varied in scale and scope -- you could chose to work on anything from an internal bot with a couple of hundred users to a system with 4.2 billion requests per month -- using [microservices](https://www.youtube.com/watch?v=lC5SfTMFK3M), [machine learning](https://www.youtube.com/watch?v=7iPP2tltt-0), [augmented reality](https://labs.ft.com/experiment/2017/06/06/inklink.html), and more.
 
-FT Tech Developer 
-----
-We're looking for a software developer to join our teams; someone who shares our love for the web, our passion for performance
-and our commitment to accessibility. We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
+Our ideal candidate will bring a unique point of view to the work that we do. We don't hire for team fit, we hire for team betterment; diverse perspectives help us build a great product, and even better teams.
 
-Our ideal candidate will bring a unique point of view to the work that we do. We don't hire for team fit, we hire
-for team betterment. We firmly believe that diverse perspectives help us build a great product, and an even better team. Learn more [about us](https://aboutus.ft.com/en-gb/careers/our-people/).
+You can read more [about us](https://aboutus.ft.com/en-gb/careers/our-people/) or catch up on the latest from our teams in our [Product & Tech Blog](https://medium.com/ft-product-technology).
 
-There are three types of work involved in this role:
-----------------------------------------------------
-* Developing greenfield applications using core web technologies such as JS and Node (no frameworks required),
-  and any other tech you find right for the task at hand
-* Being part of the solution: Developers and Product Owners work together to come up with solutions to the problems
-  we’re trying to solve or goals we’re trying to achieve. There’s no “throwing over the fence” around here.
-* Maintaining our standard for web performance, security and accessibility
+## Your FT Tech Career
 
-When you're not doing all those things, you'll be:
---------------------------------------------------
-* Mentoring and coaching more junior members of the team
-* Coming up with improvements to the way we work and the tools we use
-* Receiving (and giving) internal workshops on tech that particularly interest you
+We firmly believe that the success of our products and our teams is strictly tied to the success of our people. In FT Tech we invest in you as an individual at every step of your career, supporting your professional growth as well as your personal development.
 
-Other things we use:
---------------------
-We don’t expect you to be familiar with any of these, but if anything in this list piques your interest you are
-likely to have a chance to work with it: Heroku, Serverless, Google Cloud, AWS, Neo4j and Continuous Integration.
+Most of our engineers moving into senior tech leadership positions in FT Technology every year have started out in more junior roles. Throughout their FT careers they’ve acquired not just the technical skills required for complex new challenges, but also the professional and social skills to support the development of newer junior members.
 
-The hiring process:
--------------------
+As part of our teams you will have access to all of the support and tools you need to have a successful, growing career with us, as well as those you may want to leverage to support the growth of others around you as well.
+
+You will also have the opportunity and our support to attend (and speak at, if you’re inclined) world-renowned tech conferences to further develop your skills every year. Furthermore you’ll have access to fully funded professional certifications, internal and external workshops and tech talks.
+
+### Our culture
+
+We are passionate about building technical solutions to ultimately enable the highest quality of journalism. As a team we believe in the importance of trusted high quality journalism plays in a post-truth, post-fact world.
+
+We are a vibrant and diverse group of people from different backgrounds and different interests outside of tech! We are over 2,200 employees across our offices (London, Sofia, New York, Manila, Tokyo, Hong Kong), and we are [deeply committed to furthering equality and diversity](https://aboutus.ft.com/en-gb/careers/diversity-and-inclusion-ft/) not just in our organization, but in the wider tech industry. FT is part of the [Tech Talent Charter](https://techtalentcharter.co.uk/), where we have a committed goal within the Product & Technology department to reach gender parity by 2022.
+
+We make it our priority to provide the most flexible conditions for everyone, including flexible working hours, the capacity to work from home when needed, part-time flexibility for almost all our roles (from junior to director), a 35-hour work week, 10% time and more.
+
+We have very active communities which you are welcome to participate in such as [FT Women](https://medium.com/ft-product-technology/inspirational-women-of-ft-product-technology-62db31b67980), FT Embrace (our BAME network), Proud FT, and ad-hoc social events such as regular board games night, netball, rounders, football and quiz night.
+
+### The hiring process
 We understand that tech interviews are often stressful for no good reason, so we designed our interview process
-to be rigorous but friendly (we don’t do whiteboard coding or peer over your shoulder when you’re writing code).
-We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see 
-applications from underrepresented backgrounds. 
+to be rigorous but friendly (we won’t expect you to reverse a binary tree on a whiteboard or peer over your shoulder when you’re writing code).
+We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see
+applications from underrepresented backgrounds.
 
-Benefits:
----------
+### Benefits
 All of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to
 work from home when needed.
 
-Benefits of our permanent roles also include: 
+Benefits of our permanent roles also include:
 - 25 days of holiday (30 after 2 years)
 - Flexi days
 - 35h workweek
@@ -62,6 +57,11 @@ Benefits of our permanent roles also include:
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
 
-Have any questions or want to send us your CV? Email laura.carvajal@ft.com 
+Have any questions or want to send us your CV? Email laura.carvajal@ft.com
 
 Direct applicants only, please.
+
+## Roles available
+We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
+
+See Vacancies.MD for the current roles.
