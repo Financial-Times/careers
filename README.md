@@ -65,4 +65,4 @@ Direct applicants only, please.
 ## Roles available
 We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
 
-See Vacancies.MD for the current roles.
+See [Vacancies](VACANCIES.md) for the current roles.
