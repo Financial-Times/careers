@@ -45,7 +45,7 @@ Core are responsible for running our data, subscription and content platforms & 
 
 ## Internal Products
 
-This team looks after all the software the FT staff use.
+This team looks after all the internal-facing software the FT staff use.
 
 [Matt](https://twitter.com/commuterjoy) runs this team. 
 
@@ -55,22 +55,28 @@ This team looks after all the software the FT staff use.
 
 ## Operations and Reliability
 
+This team is dedicated to improving our service levels, working with engineering teams across the FT. 
+
 [Sarah](https://twitter.com/sarahjwells) runs this team.
 
 ++
 
-We don't have any vacancies in this team at the moment, but feel free drop us a line.
+We don't have any vacancies in this team at the moment but feel free [drop us a line](https://github.com/Financial-Times/careers).
 
 ## FT Group Products
+
+On this team you'll look after the tech behind the FT subsidiary brands and building technical partnerships with other organisations.
 
 [Rik](https://twitter.com/rikstill) runs this team.
 
 ++
 
-We don't have any vacancies in this team at the moment, but feel free drop us a line.
+We don't have any vacancies in this team at the moment but feel free [drop us a line](https://github.com/Financial-Times/careers).
 
 ----
 
-🤔Find out more about the FT & how to apply on the [careers page](https://github.com/Financial-Times/careers).
+Interested? Or have any questions?
+
+Find out more about the FT & how to apply on the [careers page](https://github.com/Financial-Times/careers).
 
 No agencies. Thanks.
