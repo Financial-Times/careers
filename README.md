@@ -60,7 +60,7 @@ Benefits of our permanent roles also include:
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
 
-## Roles available
+### Roles available
 
 We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
 
