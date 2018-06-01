@@ -31,12 +31,14 @@ We make it our priority to provide the most flexible conditions for everyone, in
 We have very active communities which you are welcome to participate in such as [FT Women](https://medium.com/ft-product-technology/inspirational-women-of-ft-product-technology-62db31b67980), FT Embrace (our BAME network), Proud FT, and ad-hoc social events such as regular board games night, netball, rounders, football and quiz night.
 
 ### The hiring process
+
 We understand that tech interviews are often stressful for no good reason, so we designed our interview process
 to be rigorous but friendly (we won’t expect you to reverse a binary tree on a whiteboard or peer over your shoulder when you’re writing code).
 We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see
 applications from underrepresented backgrounds.
 
 ### Benefits
+
 All of our employees, regardless of contract status, enjoy flexible working hours, including the possibility to
 work from home when needed.
 
@@ -58,11 +60,14 @@ Benefits of our permanent roles also include:
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
 
-Have any questions or want to send us your CV? Email laura.carvajal@ft.com
-
-Direct applicants only, please.
-
 ## Roles available
+
 We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are contracting opportunities also.
 
 See [Vacancies](VACANCIES.md) for the current roles.
+
+### Contact
+
+Have any questions or want to send us your CV? Email talent@ft.com
+
+Direct applicants only, please.
