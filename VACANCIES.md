@@ -61,7 +61,7 @@ This team is dedicated to improving our service levels, working with engineering
 
 ++
 
-We don't have any vacancies in this team at the moment but feel free [drop us a line](https://github.com/Financial-Times/careers).
+We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
 
 ## FT Group Products
 
@@ -71,12 +71,10 @@ On this team you'll look after the tech behind the FT subsidiary brands and buil
 
 ++
 
-We don't have any vacancies in this team at the moment but feel free [drop us a line](https://github.com/Financial-Times/careers).
+We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
 
 ----
 
 Interested? Or have any questions?
 
-Find out more about the FT & how to apply on the [careers page](https://github.com/Financial-Times/careers).
-
-No agencies. Thanks.
+Find out more about the FT & how to apply on the [careers page](README.md#contact).
