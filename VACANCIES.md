@@ -55,7 +55,7 @@ This team looks after all the internal-facing software the FT staff use.
 
 ## Operations and Reliability
 
-This team is dedicated to improving our service levels, working with engineering teams across the FT. 
+This team is dedicated to transforming the way we support delivery teams, execute our monitoring, improve reliability and support our products, working with engineering teams across the FT.
 
 [Sarah](https://twitter.com/sarahjwells) runs this team.
 
