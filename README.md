@@ -2,7 +2,8 @@
 
 In FT Tech we develop products like FT.com, our [award-winning website](https://aboutus.ft.com/en-gb/announcements/ft-technology-wins-at-devops-digiday-awards/) and one of the [fastest news sites](https://webperf.xyz/) in the world. We are firm supporters of open source and develop more and more of our projects [in the open](https://github.com/Financial-Times) every day. Some of our most widely used OSS are [Polyfill.io](https://polyfill.io/v2/docs/) and [Origami](http://origami.ft.com/).
 
-We are hundreds of developers, but our teams are small, self-governing and multi-disciplined, empowered to choose our own tech stack and to continuously deploy our software, sometimes hundreds of times a day.
+We are hundreds of engineers, but our teams are small, self-governing and multi-disciplined, empowered to choose our own tech stack and to continuously deploy our software, sometimes hundreds of times a day.
+
 
 Our projects are widely varied in scale and scope -- you could chose to work on anything from an internal bot with a couple of hundred users to a system with 4.2 billion requests per month -- using [microservices](https://www.youtube.com/watch?v=lC5SfTMFK3M), [machine learning](https://www.youtube.com/watch?v=7iPP2tltt-0), [augmented reality](https://labs.ft.com/experiment/2017/06/06/inklink.html), and more.
 
