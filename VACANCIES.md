@@ -9,7 +9,7 @@ On this team you'll work on [ft.com](https://www.ft.com/) & our [web apps](https
 
 ++
 
-🇬🇧[Senior Developer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Developer_JR001435) - Southwark Bridge, permanent, ref: JR001435
+🇬🇧 [Senior Developer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Developer_JR001435) - Southwark Bridge, permanent, ref: JR001435
 
 🇬🇧 [Senior Software Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Software-Engineer-in-Test--senior-_JR001460-1) - Southwark Bridge, permanent, ref: JR001460 
 
@@ -51,7 +51,7 @@ This team looks after all the internal-facing software the FT staff use.
 
 ++
 
-🇬🇧[Senior Software Engineer, Email](#) - Southwark Bridge, contract, ref: CRA0422830
+🇬🇧 [Senior Software Engineer, Email](#) - Southwark Bridge, contract, ref: CRA0422830
 
 ## Operations and Reliability
 
