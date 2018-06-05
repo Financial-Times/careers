@@ -13,7 +13,7 @@ On this team you'll work on [ft.com](https://www.ft.com/) & our [web apps](https
 
 🇬🇧 [Senior Software Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Software-Engineer-in-Test--senior-_JR001460-1) - Southwark Bridge, permanent, ref: JR001460 
 
-🇬🇧 [Senior Developer, FT.com](#) - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._ 
+🇬🇧 Senior Developer, FT.com - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._ 
 
 ## Enterprise Services
 
@@ -51,7 +51,7 @@ This team looks after all the internal-facing software the FT staff use.
 
 ++
 
-🇬🇧 [Senior Software Engineer, Email](#) - Southwark Bridge, contract, ref: CRA0422830
+🇬🇧 Senior Software Engineer, Email - Southwark Bridge, contract, ref: CRA0422830
 
 ## Operations and Reliability
 
