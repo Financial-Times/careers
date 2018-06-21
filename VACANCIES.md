@@ -29,8 +29,6 @@ This team look after the infrastrucuture & tools that power the FT.
 
 🇬🇧 [Cloud Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Network-Engineer_JR001505) - Southwark Bridge, permanent, ref: JR001505
 
-🇵🇭 [Infrastructure Management Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/Manila/Infrastructure-Management-Engineer_JR002058-1) - Manila, permanent, ref: JR002058
-
 🇬🇧[Tech Lead Networks](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Tech-Lead--Networks_JR002312) - Southwark Bridge, permanent, ref: JR002312
 ## FT Core
 
