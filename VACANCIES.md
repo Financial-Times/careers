@@ -31,6 +31,7 @@ This team look after the infrastrucuture & tools that power the FT.
 
 🇵🇭 [Infrastructure Management Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/Manila/Infrastructure-Management-Engineer_JR002058-1) - Manila, permanent, ref: JR002058
 
+🇬🇧[Tech Lead Networks](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Tech-Lead--Networks_JR002312) - Southwark Bridge, permanent, ref: JR002312
 ## FT Core
 
 FT Core are responsible for running our data, subscription and content publishing platforms & APIs.
