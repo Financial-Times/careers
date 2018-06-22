@@ -1,5 +1,5 @@
 
-Hi, here's a list of all the open developer jobs at the FT.  
+Hi, here's a list of all the open developer jobs at the FT.
 
 ## Customer Products
 
@@ -9,11 +9,9 @@ On this team you'll work on [ft.com](https://www.ft.com/) & our [web apps](https
 
 ++
 
-🇬🇧 [Senior Developer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Developer_JR001435) - Southwark Bridge, permanent, ref: JR001435
+🇬🇧 [Senior Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002182) - Southwark Bridge, permanent, ref: JR002182 _multiple vacancies._
 
-🇬🇧 [Senior Software Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Software-Engineer-in-Test--senior-_JR001460-1) - Southwark Bridge, permanent, ref: JR001460 
-
-🇬🇧 Senior Developer, FT.com - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._ 
+🇬🇧 Senior Developer, FT.com - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._
 
 ## Enterprise Services
 
@@ -23,7 +21,7 @@ This team look after the infrastrucuture & tools that power the FT.
 
 ++
 
-🇬🇧 [Senior Cloud Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Cloud-Platform-Engineer_JR002016) - Southwark Bridge, permanent, ref: JR002016 
+🇬🇧 [Senior Cloud Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Cloud-Platform-Engineer_JR002016) - Southwark Bridge, permanent, ref: JR002016
 
 🇬🇧 [Cloud ☁️ Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Cloud-Platform-Engineer_JR002074) - Southwark Bridge, permanent, ref: JR002074
 
@@ -38,7 +36,7 @@ FT Core are responsible for running our data, subscription and content publishin
 
 ++
 
-🇧🇬 [Technical Director, FT Core](https://stackoverflow.com/jobs/186081/lead-the-building-of-an-engineering-capability-at-the-financial-times-ltd?a=e7F9GOLb5tzP8FgI) - Sofia, permanent 
+🇧🇬 [Technical Director, FT Core](https://stackoverflow.com/jobs/186081/lead-the-building-of-an-engineering-capability-at-the-financial-times-ltd?a=e7F9GOLb5tzP8FgI) - Sofia, permanent
 
 🇧🇬 [Senior Engineer, FT Core](https://stackoverflow.com/jobs/186848/senior-engineer-delivering-innovative-solutions-financial-times?a=e7F9GP17I7Fn6W9a) - Sofia, permanent
 
@@ -48,7 +46,7 @@ FT Core are responsible for running our data, subscription and content publishin
 
 This team looks after all the internal-facing software the FT staff use.
 
-[Matt](https://twitter.com/commuterjoy) runs this team. 
+[Matt](https://twitter.com/commuterjoy) runs this team.
 
 ++
 
