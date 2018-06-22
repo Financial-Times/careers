@@ -45,23 +45,23 @@ work from home when needed.
 
 Benefits of our permanent roles also include:
 
-- 25 days of holiday (30 after 2 years)
+- 25 days of holiday (30 after 2 years)<sup>*</sup>
 - Flexi days
-- 35h working week
+- 35h working week<sup>*</sup>
 - Charity giving and sponsorship: We match what you raise up to £500 and help you promote your cause
-- Give as you earn*
-- Generous pension plan*
-- 24h employee wellbeing services, including counseling on financial, physical and mental health
-- Season ticket loan*
-- Cycle to work scheme*
-- Discounted gym membership at Nuffield Health*
-- Group Income Protection and Life Assurance*
-- Free private healthcare with discounted family rates.
-- Dental scheme, eyecare vouchers*
+- Give as you earn
+- Generous pension plan
+- 24h employee wellbeing services, including counseling on financial, physical and mental health<sup>*</sup>
+- Season ticket loan
+- Cycle to work scheme
+- Discounted gym membership at Nuffield Health
+- Group Income Protection and Life Assurance
+- Free private healthcare with discounted family rates<sup>*</sup>
+- Dental scheme, eyecare vouchers
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
 
-_* UK only benefits._
+<sup>*</sup> UK-only benefits.
 
 ### Roles available
 
