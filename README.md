@@ -49,17 +49,19 @@ Benefits of our permanent roles also include:
 - Flexi days
 - 35h working week
 - Charity giving and sponsorship: We match what you raise up to £500 and help you promote your cause
-- Give as you earn
-- Generous pension plan
+- Give as you earn*
+- Generous pension plan*
 - 24h employee wellbeing services, including counseling on financial, physical and mental health
-- Season ticket loan
-- Cycle to work scheme
-- Discounted gym membership at Nuffield Health
-- Group Income Protection and Life Assurance
+- Season ticket loan*
+- Cycle to work scheme*
+- Discounted gym membership at Nuffield Health*
+- Group Income Protection and Life Assurance*
 - Free private healthcare with discounted family rates.
-- Dental scheme, eyecare vouchers
+- Dental scheme, eyecare vouchers*
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
+
+_* UK only benefits._
 
 ### Roles available
 
