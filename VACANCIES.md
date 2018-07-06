@@ -3,7 +3,7 @@ Hi, here's a list of all the open developer jobs at the FT.
 
 ## Customer Products
 
-On this team you'll work on [ft.com](https://www.ft.com/) & our [web apps](https://www.ft.com/tour/apps).
+On this team you'll work on [ft.com](https://www.ft.com/) & our [apps](https://www.ft.com/tour/apps).
 
 [Anna](https://twitter.com/annashipman) runs this team.
 
