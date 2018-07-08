@@ -32,15 +32,15 @@ This team look after the infrastrucuture & tools that power the FT.
 🇬🇧[Tech Lead Networks](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Tech-Lead--Networks_JR002312) - Southwark Bridge, permanent, ref: JR002312
 ## FT Core
 
-FT Core are responsible for running our data, subscription and content publishing platforms & APIs.
+FT Core are responsible for our data, subscription and content publishing platforms & APIs.
 
 [Jon](https://twitter.com/jonfurse) runs this team.
 
 ++
 
-🇧🇬 [Technical Director, FT Core](https://stackoverflow.com/jobs/186081/lead-the-building-of-an-engineering-capability-at-the-financial-times-ltd?a=e7F9GOLb5tzP8FgI) - Sofia, permanent
-
 🇧🇬 [Senior Engineer, FT Core](https://stackoverflow.com/jobs/186848/senior-engineer-delivering-innovative-solutions-financial-times?a=e7F9GP17I7Fn6W9a) - Sofia, permanent
+
+🇧🇬 [Data Engineer (Java, Cloud, Big Data), FT Core](https://stackoverflow.com/jobs/194264/data-engineer-python-sql-cloud-big-data-financial-times) - Sofia, permanent
 
 🇧🇬 [Junior Engineer, FT Core](https://stackoverflow.com/jobs/186083/junior-engineer-to-join-the-ft-product-and-financial-times) - Sofia, permanent
 
