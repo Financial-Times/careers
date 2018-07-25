@@ -23,7 +23,7 @@ This team look after the infrastrucuture & tools that power the FT.
 
 🇬🇧 [Senior Risk Analyst (Cyber Security)](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Risk-Analyst--Cyber-Security-_JR002172) - Southwark Bridge, permanent, ref: JR002172
 
-🇬🇧 [Cloud ☁️ Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Cloud-Platform-Engineer_JR002074) - Southwark Bridge, permanent, ref: JR002074
+🇬🇧 [Cloud Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Cloud-Platform-Engineer_JR002074) - Southwark Bridge, permanent, ref: JR002074
 
 🇬🇧 [Cloud Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Network-Engineer_JR001505) - Southwark Bridge, permanent, ref: JR001505
 
