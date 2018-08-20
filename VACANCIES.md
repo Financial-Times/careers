@@ -60,7 +60,7 @@ This team looks after all the internal-facing software the FT staff use as well 
 
 🇬🇧 Senior Software Engineer, Contract CRA-0422830
 
-🇬🇧 Software Engineer, Contract CRA-TBC
+🇬🇧 Software Engineer, Contract CRA-0422961
 
 ### Salesforce roles
 
@@ -70,9 +70,9 @@ This team looks after all the internal-facing software the FT staff use as well 
 
 ### Other engineering roles
 
-🇬🇧 Workday Engineer - CRA-TBC
+🇬🇧 HR Systems Support (Workday) - CRA-0422928
 
-🇬🇧 Oracle Engineer - CRA-TBC
+🇬🇧 Finance Systems Accountant - CRA-0422940
 
 
 ## Operations and Reliability
