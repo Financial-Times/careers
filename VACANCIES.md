@@ -1,5 +1,5 @@
 
-Hi, here's a list of all the open developer jobs at the FT.
+Hi, here's a list of all the open engineering roles at the FT.
 
 ## Customer Products
 
@@ -9,7 +9,7 @@ On this team you'll work on [ft.com](https://www.ft.com/) & our [apps](https://w
 
 ++
 
-🇬🇧 [Senior Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002182) - Southwark Bridge, permanent, ref: JR002182 _multiple vacancies._
+🇬🇧 Senior Engineer, FT.com - Southwark Bridge, permanent, ref: JR002182 _multiple vacancies._
 
 🇬🇧 Senior Developer, FT.com - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._
 
@@ -44,29 +44,35 @@ FT Core are responsible for our data, subscription and content publishing platfo
 
 ## Internal Products
 
-This team looks after all the internal-facing software the FT staff use.
+This team looks after all the internal-facing software the FT staff use as well as platforms and engines that power FT.com behind the scenes.
 
 [Matt](https://twitter.com/commuterjoy) runs this team.
 
 ++
 
-🇬🇧Senior Software Engineer, full-stack JS - Permanent JR002547
+### Full-stack JS roles
 
-🇬🇧Software Engineer, full-stack JS - Permanent JR002548
+🇬🇧 Senior Software Engineer, Permanent JR002547
+ 
+🇬🇧 Software Engineer, Permanent JR002548
 
-🇬🇧Junior Software Engineer, full-stack JS - Permanent JR002559
+🇬🇧 Junior Software Engineer, Permanent JR002559
 
-🇬🇧Senior Software Engineer, full-stack JS - Contract CRA-0422830
+🇬🇧 Senior Software Engineer, Contract CRA-0422830
 
-🇬🇧Software Engineer, full-stack JS - Contract CRA-TBC
+🇬🇧 Software Engineer, Contract CRA-TBC
 
-🇬🇧Salesforce Developer - Contract CRA-0422957
+### Salesforce roles
 
-🇬🇧Salesforce Technical Analyst - Contract CRA-0422958
+🇬🇧 Salesforce Developer - Contract CRA-0422957
 
-🇬🇧Workday Engineer - CRA-TBC
+🇬🇧 Salesforce Technical Analyst - Contract CRA-0422958
 
-🇬🇧Oracle Engineer - CRA-TBC
+### Other engineering roles
+
+🇬🇧 Workday Engineer - CRA-TBC
+
+🇬🇧 Oracle Engineer - CRA-TBC
 
 
 ## Operations and Reliability
