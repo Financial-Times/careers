@@ -69,6 +69,6 @@ See [Vacancies](VACANCIES.md) for the current roles.
 
 ### Contact
 
-Have any questions or want to send us your CV then please email [talent@ft.com](mailto:talent@ft.com)
+Have any questions or want to send us your CV then please email [laura.carvajal@ft.com](mailto:laura.carvajal@ft.com)
 
 Direct applicants only, please.
