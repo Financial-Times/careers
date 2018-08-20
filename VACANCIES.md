@@ -44,7 +44,7 @@ FT Core are responsible for our data, subscription and content publishing platfo
 
 ## Internal Products
 
-This team looks after all the internal-facing software the FT staff use as well as platforms and engines that power FT.com behind the scenes.
+This team looks after [all the internal-facing software](http://matt.chadburn.co.uk/presentations/ip-all-hands.pdf) the FT staff use as well as platforms and engines that power FT.com behind the scenes.
 
 [Matt](https://twitter.com/commuterjoy) runs this team.
 
