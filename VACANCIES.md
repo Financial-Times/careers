@@ -50,7 +50,24 @@ This team looks after all the internal-facing software the FT staff use.
 
 ++
 
-🇬🇧 Senior Software Engineer, Email - Southwark Bridge, contract, ref: CRA0422830
+🇬🇧Senior Software Engineer, full-stack JS - Permanent JR002547
+
+🇬🇧Software Engineer, full-stack JS - Permanent JR002548
+
+🇬🇧Junior Software Engineer, full-stack JS - Permanent JR002559
+
+🇬🇧Senior Software Engineer, full-stack JS - Contract CRA-0422830
+
+🇬🇧Software Engineer, full-stack JS - Contract CRA-TBC
+
+🇬🇧Salesforce Developer - Contract CRA-0422957
+
+🇬🇧Salesforce Technical Analyst - Contract CRA-0422958
+
+🇬🇧Workday Engineer - CRA-TBC
+
+🇬🇧Oracle Engineer - CRA-TBC
+
 
 ## Operations and Reliability
 
