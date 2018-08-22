@@ -11,8 +11,6 @@ On this team you'll work on [ft.com](https://www.ft.com/) & our [apps](https://w
 
 🇬🇧 Senior Engineer, FT.com - Southwark Bridge, permanent, ref: JR002182 _multiple vacancies._
 
-🇬🇧 Senior Developer, FT.com - Southwark Bridge, contract, ref: CRA-0422747, _multiple vacancies._
-
 ## Enterprise Services
 
 This team look after the infrastrucuture & tools that power the FT.
@@ -21,11 +19,7 @@ This team look after the infrastrucuture & tools that power the FT.
 
 ++
 
-🇬🇧 [Senior Risk Analyst (Cyber Security)](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Risk-Analyst--Cyber-Security-_JR002172) - Southwark Bridge, permanent, ref: JR002172
-
 🇬🇧 [Cloud Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Cloud-Platform-Engineer_JR002074) - Southwark Bridge, permanent, ref: JR002074
-
-🇬🇧 [Cloud Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Network-Engineer_JR001505) - Southwark Bridge, permanent, ref: JR001505
 
 🇬🇧[Tech Lead Networks](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Tech-Lead--Networks_JR002312) - Southwark Bridge, permanent, ref: JR002312
 ## FT Core
