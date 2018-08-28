@@ -9,7 +9,8 @@ On this team you'll work on [ft.com](https://www.ft.com/) & our [apps](https://w
 
 ++
 
-🇬🇧 Senior Engineer, FT.com - Southwark Bridge, permanent, ref: JR002182 _multiple vacancies._
+🇬🇧 [Senior Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002368) - Southwark Bridge, permanent, ref: JR002368
+🇬🇧 [Senior Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002452) - Southwark Bridge, permanent, ref: JR002452 _(multiple roles available)_
 
 ## Enterprise Services
 
@@ -47,7 +48,7 @@ This team looks after [all the internal-facing software](http://matt.chadburn.co
 ### Full-stack JS roles
 
 🇬🇧 Senior Software Engineer, Permanent JR002547
- 
+
 🇬🇧 Software Engineer, Permanent JR002548
 
 🇬🇧 Junior Software Engineer, Permanent JR002559
