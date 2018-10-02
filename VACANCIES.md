@@ -21,9 +21,8 @@ This team look after the infrastrucuture & tools that power the FT.
 
 ++
 
-🇬🇧 [Cloud Platform Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Cloud-Platform-Engineer_JR002074) - Southwark Bridge, permanent, ref: JR002074
+🇬🇧 [Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Full-stack-Engineer_JR001137) - Southwark Bridge, permanent, ref: JR001137
 
-🇬🇧[Tech Lead Networks](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Tech-Lead--Networks_JR002312) - Southwark Bridge, permanent, ref: JR002312
 ## FT Core
 
 FT Core are responsible for our data, subscription and content publishing platforms & APIs.
