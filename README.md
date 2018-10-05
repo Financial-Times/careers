@@ -16,7 +16,7 @@ We firmly believe that the success of our products and teams is strictly tied to
 
 Most engineers that move into senior tech leadership positions in FT Technology every year have started out in more junior roles. Throughout their FT careers they’ve acquired not just the technical skills required for complex new challenges, but also the professional and social skills to support the development of newer junior members.
 
-As part of FT Tech you will have access to all of the support and tools you need to have a successful, growing career with us, as well as those you may want to leverage to support the growth of others around you as well.
+As part of FT Tech you will have access to all of the support and tools you need to have a successful, growing career with us, as well as those you may want to leverage to support the growth of others around you.
 
 You will also have the opportunity and our support to attend (and speak at, if you’re inclined) world-renowned tech conferences to further develop your skills every year. Furthermore, you’ll have access to fully funded professional certifications, internal and external workshops and tech talks.
 
