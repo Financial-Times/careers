@@ -39,7 +39,7 @@ FT Core are responsible for our data, subscription and content publishing platfo
 
 ## Internal Products
 
-This team looks after [all the internal-facing software](http://matt.chadburn.co.uk/presentations/ip-all-hands.pdf) the FT staff use as well as platforms and engines that power FT.com behind the scenes.
+This team looks after [all the internal-facing software](http://matt.chadburn.co.uk/presentations/ip-all-hands.pdf) the FT staff use as well as some of the platforms that power FT.com behind the scenes.
 
 [Matt](https://twitter.com/commuterjoy) runs this team.
 
@@ -47,28 +47,13 @@ This team looks after [all the internal-facing software](http://matt.chadburn.co
 
 ### Full-stack JS roles
 
-🇬🇧 Senior Software Engineer, Permanent JR002547
+🇬🇧 Software Engineer (Editorial tools), Permanent JR002798
 
-🇬🇧 Software Engineer, Permanent JR002548
-
-🇬🇧 Junior Software Engineer, Permanent JR002559
-
-🇬🇧 Senior Software Engineer, Contract CRA-0422830
-
-🇬🇧 Software Engineer, Contract CRA-0422961
+🇬🇧 Software Engineer (Editorial tools), Contract 
 
 ### Salesforce roles
 
-🇬🇧 Salesforce Developer - Contract CRA-0422957
-
-🇬🇧 Salesforce Technical Analyst - Contract CRA-0422958
-
-### Other engineering roles
-
-🇬🇧 HR Systems Support (Workday) - CRA-0422928
-
-🇬🇧 Finance Systems Accountant - CRA-0422940
-
+🇬🇧 QA Lead (Ads) - Contract CRA-0422988
 
 ## Operations and Reliability
 
