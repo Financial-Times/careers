@@ -23,6 +23,9 @@ This team look after the infrastrucuture & tools that power the FT.
 
 🇬🇧 [Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Full-stack-Engineer_JR001137) - Southwark Bridge, permanent, ref: JR001137
 
+🇬🇧 [Senior Engineer (Security)](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002574) - Southwark Bridge, permanent, ref: JR002574
+
+
 ## FT Core
 
 FT Core are responsible for our data, subscription and content publishing platforms & APIs.
