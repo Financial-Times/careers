@@ -57,10 +57,6 @@ This team looks after [all the internal-facing software](http://matt.chadburn.co
 
 🇬🇧 Software Engineer (Editorial tools), Contract 
 
-### Salesforce roles
-
-🇬🇧 QA Lead (Ads) - Contract CRA-0422988
-
 ## Operations and Reliability
 
 This team is dedicated to transforming the way we support delivery teams, execute our monitoring, improve reliability and support our products, working with engineering teams across the FT.
