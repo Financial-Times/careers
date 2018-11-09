@@ -46,16 +46,16 @@ Benefits of our permanent roles also include:
 
 - Work-life balance - flexible hours
 - Friendly, vibrant and sociable team of 250+
-- Shared Parental Leave
-- Kit of your choice - Dell or Macbook Pro
-- Subsidised Gym Membership
-- Free Subscription across the FT portfolio
-- Private Healthcare & subsidised Dental Scheme (location specific)
+- Shared parental leave
+- Kit of your choice - Dell or MacBook Pro
+- Subsidised gym membership
+- Free subscription across the FT portfolio
+- Private healthcare & subsidised dental scheme (location specific)
 - 25 days holiday increases to 30 days after 2 years (location specific)
-- Generous Pension Contribution - up to 12%-16% (location specific)
+- Generous pension contribution - up to 12%-16% (location specific)
 - Season ticket loan (location specific)
 - Cycle to work scheme (location specific)
-- Charitable Give As You Earn Scheme & Fundraising (location specific)
+- Charitable give as you earn scheme & fundraising (location specific)
 
 
 More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
