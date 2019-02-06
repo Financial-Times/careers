@@ -3,13 +3,11 @@ Hi, here's a list of all the open engineering roles at the FT.
 
 ## Customer Products
 
-On this team you'll work on [ft.com](https://www.ft.com/) & our [apps](https://www.ft.com/tour/apps).
+On this team you'll work on [FT.com](https://www.ft.com/) and our [mobile apps](https://www.ft.com/tour/apps).
 
 [Anna](https://twitter.com/annashipman) runs this team.
 
 ++
-
-🇬🇧 [Principal Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/FT_External_Careers/job/OSB-London-35-hours/Principal-Engineer_JR002689) - Southwark Bridge, permanent, ref: JR002689
 
 🇬🇧 [Senior Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002452) - Southwark Bridge, permanent, ref: JR002452 _(multiple roles available)_
 
