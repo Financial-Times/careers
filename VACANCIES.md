@@ -51,7 +51,7 @@ This team looks after [all the internal-facing software](http://matt.chadburn.co
 
 ### Full-stack JS roles
 
-🇬🇧 Software Engineer (Editorial tools), Contract, [CRA-0423107](CRA-0423107.md)
+🇬🇧 Software Engineer (Editorial tools), Permanent, [JR003025](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Software-Engineer_JR003025)
 
 ## Operations and Reliability
 
