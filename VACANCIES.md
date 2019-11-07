@@ -9,10 +9,7 @@ On this team you'll work on [FT.com](https://www.ft.com/) and our [mobile apps](
 
 ++
 
-🇬🇧 [Senior Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002452) - Southwark Bridge, permanent, ref: JR002452 _(multiple roles available)_
-
-
-🇬🇧 [Mid-level Engineer, FT.com](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002452) - Southwark Bridge, permanent, ref: JR002452 _(This is the same ref as Senior, please apply and let us know you're interested in a mid-level position)_
+We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
 
 ## Enterprise Services
 
