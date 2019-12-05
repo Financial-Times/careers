@@ -37,13 +37,21 @@ Our team in Internal Products, one of the five FT Technology Groups. Our mission
 We are made up of the following feature teams:
 
 **Incubate**: Seed a handful of innovative projects every year that may turn into The Next Big Thing. 2020 is centered around automation.
-**Envoy**: Envoy is a platform that customises a user’s journey on FT.com, enabling tailored experiences to drive engagement. It also weaves together the user experience across devices 
-**Email Platform**: Our email platform serves the roughly 8 million emails that are sent every week to our customers who subscribe to our content. The team also develop internal front-end tools for our journalists and editors.
-**Ads**: The Ads team maintain the platform through which our ads are booked, paid for and served both onto FT.com and to the printed paper.
-**DevX**: Our developer experience team are constantly finding ways to make the work of the rest of our engineers easier and more saatisfying.
-**CRM**: Our CRM Team look after our Salesforce platform and the different applications used by our Sales and Marketing teams.
+
+**Envoy**: Envoy is a platform that customises a user’s journey on FT.com, enabling tailored experiences to drive engagement. It also weaves together the user experience across devices.
+
 **Digital Newsroom**: Develop a set of modern applications for our Editorial staff to author, edit and publish thousands of news articles every week
+
+**Email Platform**: Our email platform serves the roughly 8 million emails that are sent every week to our customers who subscribe to our content. The team also develop internal front-end tools for our journalists and editors.
+
+**Ads**: The Ads team maintain the platform through which our ads are booked, paid for and served both onto FT.com and to the printed paper.
+
+**DevX**: Our developer experience team are constantly finding ways to make the work of the rest of our engineers easier and more saatisfying.
+
+**CRM**: Our CRM Team look after our Salesforce platform and the different applications used by our Sales and Marketing teams.
+
 **CMS**: Develop and maintain our publishing platform through which editorial content is sent to newspaper printers every day.
+
 **People Tech**: Builds and orchestrates systems that handle staff data at the FT, including our HR systems 
 
 More on [what it's like to work in Internal Products](https://twitter.com/lc512k/status/933748080356265985) and a [video](https://www.ft.com/assets/product-and-tech/FT+Product+%26+Technology+Recruitment.mp4) about working at the FT.
