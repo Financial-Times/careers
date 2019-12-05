@@ -56,6 +56,20 @@ We are made up of the following feature teams:
 
 More on [what it's like to work in Internal Products](https://twitter.com/lc512k/status/933748080356265985) and a [video](https://www.ft.com/assets/product-and-tech/FT+Product+%26+Technology+Recruitment.mp4) about working at the FT.
 
+
+### Roles available
+
+We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year.
+
+Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition.
+
+[Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
+- Junior Engineer
+- Engineer
+- Senior 1 Engineer
+- Senior 2 Engineer
+- Principal Engineer
+
 ### The hiring process
 
 We understand that tech interviews are often stressful for no good reason, so we designed our interview process
@@ -83,20 +97,6 @@ Benefits of our permanent roles also include:
 - Private healthcare & subsidised dental scheme
 - Season ticket loan
 - Cycle to work scheme
-
-
-### Roles available
-
-We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year.
-
-Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition.
-
-[Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
-- Junior Engineer
-- Engineer
-- Senior 1 Engineer
-- Senior 2 Engineer
-- Principal Engineer
 
 ### Contact
 
