@@ -30,13 +30,9 @@ We make it our priority to provide the most flexible conditions for everyone, in
 
 We have very active communities which you are welcome to participate in such as [FT Women](https://medium.com/ft-product-technology/inspirational-women-of-ft-product-technology-62db31b67980), FT Embrace (our BAME network), Proud FT, and ad-hoc social events such as regular board games and quiz nights, netball, rounders and football.
 
-### The team
+### The team: Internal Products
 
-Our team in Internal Products, one of the five FT Technology Groups.
-Our mission is to enable our peers (in tech and beyond) to do [their best work](https://twitter.com/commuterjoy/status/1054448365541490690).
-We do this in a variety of ways: finding a team [the right tool for the job](http://matt.chadburn.co.uk/notes/buy-or-build.html), 
-helping them automate the most tedious parts of their work so they can invest in the valuable tasks they truly care about, 
-discovering new ways in which to bring value to the business, and more.
+Our team in Internal Products, one of the five FT Technology Groups. Our mission is to enable our peers (in tech and beyond) to do [their best work](https://twitter.com/commuterjoy/status/1054448365541490690). We do this in a variety of ways: finding a team [the right tool for the job](http://matt.chadburn.co.uk/notes/buy-or-build.html), helping them automate the most tedious parts of their work so they can invest in the valuable tasks they truly care about, discovering new ways in which to bring value to the business, and more.
 
 We are made up of the following feature teams:
 
