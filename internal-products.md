@@ -70,9 +70,10 @@ work from home when needed.
 
 Benefits of our permanent roles also include:
 
-- Triple pension: For every £1 you put towards your pension the FT put £2, up to 6% of your salary (8% over 45)
 - Work-life balance: Flexible hours, work from home when you need
 - 25 days holiday increases to 30 days after 2 years
+- Triple pension: For every £1 you put towards your pension the FT put £2, up to 6% of your salary (8% over 45)
+- Conference, travel and training budget. We frequently attend and often sponsor conferences like JSConfEU, LeadDev, FFConf...
 - Friendly, vibrant and sociable team of 250+
 - Shared parental leave
 - Kit of your choice - Dell, MacBook Pro or Chromebook
@@ -86,7 +87,16 @@ Benefits of our permanent roles also include:
 
 ### Roles available
 
-We have roles available from **Junior Engineer** to **Principal Engineer** in a variety of teams
+We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year.
+
+Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are transferrable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition.
+
+[Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
+- Junior Engineer
+- Engineer
+- Senior 1 Engineer
+- Senior 2 Engineer
+- Principal Engineer
 
 ### Contact
 
