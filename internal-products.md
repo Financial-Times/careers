@@ -46,7 +46,7 @@ We are made up of the following feature teams:
 
 **Ads**: The Ads team maintain the platform through which our ads are booked, paid for and served both onto FT.com and to the printed paper.
 
-**DevX**: Our developer experience team are constantly finding ways to make the work of the rest of our engineers easier and more saatisfying.
+**DevX**: Our developer experience team are constantly finding ways to make the work of the rest of our engineers easier and more satisfying.
 
 **CRM**: Our CRM Team look after our Salesforce platform and the different applications used by our Sales and Marketing teams.
 
@@ -89,7 +89,7 @@ Benefits of our permanent roles also include:
 
 We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year.
 
-Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are transferrable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition.
+Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition.
 
 [Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
 - Junior Engineer
