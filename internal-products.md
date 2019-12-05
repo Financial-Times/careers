@@ -61,7 +61,7 @@ More on [what it's like to work in Internal Products](https://twitter.com/lc512k
 
 We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year. Principal Engineers typically look after one or two of the above teams. Senior engineers often lead them or projects within them.  
 
-Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition.
+Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition in any role.
 
 [Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
 - Junior Engineer
