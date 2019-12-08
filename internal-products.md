@@ -10,6 +10,22 @@ Our ideal candidate will bring a unique point of view to the work we do. We don'
 
 You can read more [about us](https://aboutus.ft.com/en-gb/careers/our-people/) or catch up on the latest from our teams in our [Product & Tech Blog](https://medium.com/ft-product-technology).
 
+## Table of Contents
+
+* [Your FT Tech Career](#your-ft-tech-career)
+* [Our Culture](#our-culture)
+* [The Team: Internal Products](#the-team-internal-products)
+* [The Roles](#open-roles)
+  * [Principal Engineer](#principal-engineer)
+  * [Senior 2 Engineer](#senior-2-engineer)
+  * [Senior 1 Engineer](#senior-1-engineer)
+  * [Engineer](#Engineer)
+  * [Junior Engineer](#junior-engineer)
+* [The Hiring Process](#the-hiring-process)
+* [Benefits](#benefits)
+* [Apply](#apply)
+
+
 ## Your FT Tech Career
 
 We firmly believe that the success of our products and teams is strictly tied to the success of our people. In FT Tech we invest in you as an individual at every step of your career, supporting your professional growth as well as your personal development.
@@ -20,7 +36,7 @@ As part of FT Tech you will have access to all of the support and tools you need
 
 You will also have the opportunity and our support to attend (and speak at, if you’re inclined) world-renowned tech conferences to further develop your skills every year. Furthermore, you’ll have access to fully funded professional certifications, internal and external workshops and tech talks.
 
-### Our culture
+### Our Culture
 
 We are passionate about building technical solutions to ultimately enable the highest quality of journalism. As a team we believe trusted high quality journalism plays an important role in a post-truth, post-fact world.
 
@@ -57,7 +73,7 @@ We are made up of the following feature teams:
 More on [what it's like to work in Internal Products](https://twitter.com/lc512k/status/933748080356265985) and a [video](https://www.ft.com/assets/product-and-tech/FT+Product+%26+Technology+Recruitment.mp4) about working at the FT.
 
 
-### Roles available
+### Open Roles
 
 We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year. Principal Engineers typically look after one or two of the above teams. Senior engineers often lead them or projects within them.  
 
@@ -98,8 +114,8 @@ Benefits of our permanent roles also include:
 - Season ticket loan
 - Cycle to work scheme
 
-### Contact
+### Apply
 
-Have any questions or want to send us your CV then please email [talent@ft.com](mailto:talent@ft.com) or [laura.carvajal@ft.com](mailto:laura.carvajal@ft.com)
+To apply please send your CV to [talent@ft.com](mailto:talent@ft.com) or [laura.carvajal@ft.com](mailto:laura.carvajal@ft.com), or email us with any questions!
 
 Direct applicants only, please.
