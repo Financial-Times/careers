@@ -82,7 +82,7 @@ Most of our dev work happens in Node, but you don't need specific experience in 
 [Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
 
 #### Junior Engineer
-> Coming soon
+> As a Junior Engineer you are getting started in your engineering career. You may have finished a coding bootcamp, apprenticeship, university, another junior role, or just switched careers. You are eager to grow your learning of software development. You enjoy solving problems with code as part of a wider technical team. You tackle well-defined software features and iterate your implementation with the support of your team.
 
 #### Engineer
 > As an Engineer you are proficient in the technical systems that you working on. You are aware and guided by the wider context of your work. You enjoy taking responsibility for your work and own your personal development. You work as part of a team to achieve the shared goals of the team.
