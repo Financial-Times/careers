@@ -55,19 +55,29 @@ Most of our dev work happens in Node, but you don't need specific experience in 
 [Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
 
 #### Junior Engineer
-As a Junior Engineer you are getting started in your engineering career. You may have finished a coding bootcamp, apprenticeship, university, another junior role, or just switched careers. You are eager to grow your learning of software development. You enjoy solving problems with code as part of a wider technical team. You tackle well-defined software features and iterate your implementation with the support of your team. [Apply](#apply).
+As a Junior Engineer you are getting started in your engineering career. You may have finished a coding bootcamp, apprenticeship, university, another junior role, or just switched careers. You are eager to grow your learning of software development. You enjoy solving problems with code as part of a wider technical team. You tackle well-defined software features and iterate your implementation with the support of your team.
+
+[Apply here](#apply)
 
 #### Engineer
-> As an Engineer you are proficient in the technical systems that you working on. You are aware and guided by the wider context of your work. You enjoy taking responsibility for your work and own your personal development. You work as part of a team to achieve the shared goals of the team. [Apply](#apply).
+As an Engineer you are proficient in the technical systems that you working on. You are aware and guided by the wider context of your work. You enjoy taking responsibility for your work and own your personal development. You work as part of a team to achieve the shared goals of the team.
+
+[Apply here](#apply)
 
 #### Senior 1 Engineer
-> As a Senior 1 engineer you improve the performance of those around you. This could be through official responsibilities such as line managing or tech leading, or through unofficial means such as mentoring or regular pairing. As a S1 engineer you enjoy tackling complex technical problems, and articulating your approach to your team. You thrive on being responsible for work outside of your immediate delivery team and manage that work effectively against your team’s priorities. Your require very little oversight beyond high level direction. [Apply](#apply).
+> As a Senior 1 engineer you improve the performance of those around you. This could be through official responsibilities such as line managing or tech leading, or through unofficial means such as mentoring or regular pairing. As a S1 engineer you enjoy tackling complex technical problems, and articulating your approach to your team. You thrive on being responsible for work outside of your immediate delivery team and manage that work effectively against your team’s priorities. Your require very little oversight beyond high level direction.
+
+[Apply here](#apply)
 
 #### Senior 2 Engineer
-> As a Senior 2 engineer you are known for your leadership and influence well beyond yourself. This influence could be through tech leading, line managing, mentoring, or leading projects outside of your day-to-day work. As a Senior 2 engineer, you thrive on seeing ill-defined or difficult projects through to completion. You are great at spotting issues and helping your team navigate them. You also have a deep technical understanding and willingness to help others for a particular technology or product. [Apply](#apply).
+> As a Senior 2 engineer you are known for your leadership and influence well beyond yourself. This influence could be through tech leading, line managing, mentoring, or leading projects outside of your day-to-day work. As a Senior 2 engineer, you thrive on seeing ill-defined or difficult projects through to completion. You are great at spotting issues and helping your team navigate them. You also have a deep technical understanding and willingness to help others for a particular technology or product.
+
+[Apply here](#apply)
 
 #### Principal Engineer
-> As a Principal Engineer in Internal Products you oversee one or two of our feature teams and collaborate with your fellow Principal Engineers and Tech Director in setting our wider tech and people strategy. Your day-to-day involves a combination of engineering management, people development, building relationships across disciplines, software architecuture, coding, internal public speaking, stakeholder management, recruitment and more. You thrive on finding the optimal balance between those responsibilities while playing to your strengths and those of your peers and reports. [Apply](#apply).
+> As a Principal Engineer in Internal Products you oversee one or two of our feature teams and collaborate with your fellow Principal Engineers and Tech Director in setting our wider tech and people strategy. Your day-to-day involves a combination of engineering management, people development, building relationships across disciplines, software architecuture, coding, internal public speaking, stakeholder management, recruitment and more. You thrive on finding the optimal balance between those responsibilities while playing to your strengths and those of your peers and reports.
+
+[Apply here](#apply)
 
 
 ### The team: Internal Products
