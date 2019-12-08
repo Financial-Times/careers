@@ -48,7 +48,7 @@ We have very active communities which you are welcome to participate in such as 
 
 ### Open Roles
 
-We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between all of the teams above over the course of their first year. Principal Engineers typically look after one or two of the above teams. Senior engineers often lead them or projects within them.  
+We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between a lot of our teams](#the-team-internal-products) over the course of their first 12-18 months. Principal Engineers typically look after one or two of those teams. Senior engineers often lead them or projects within them.  
 
 Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition in any role.
 
@@ -67,14 +67,14 @@ Most of our dev work happens in Node, but you don't need specific experience in 
 > As a Senior 2 engineer you are known for your leadership and influence well beyond yourself. This influence could be through tech leading, line managing, mentoring, or leading projects outside of your day-to-day work. As a Senior 2 engineer, you thrive on seeing ill-defined or difficult projects through to completion. You are great at spotting issues and helping your team navigate them. You also have a deep technical understanding and willingness to help others for a particular technology or product.
 
 #### Principal Engineer
-> Coming soon
+> As a Principal Engineer in Internal Products you oversee one or two of our feature teams and collaborate with your fellow principal engineers and tech director in setting the wider tech and people strategy. Your day-to-day involves a combination of engineering management, people development, building relationships across disciplines software architecture, software architecuture, coding, internal public speaking, stakeholder management, recruitment and more. You thrive on finding the optimal balance between those responsibilities while playing to your strengths and those of your peers and reports.
 
 
 ### The team: Internal Products
 
 Our team is Internal Products, one of the five FT Technology Groups. Our mission is to enable our peers (in tech and beyond) to do [their best work](https://twitter.com/commuterjoy/status/1054448365541490690). We do this in a variety of ways: finding a team [the right tool for the job](http://matt.chadburn.co.uk/notes/buy-or-build.html), helping them automate the most tedious parts of their work so they can invest in the valuable tasks they truly care about, discovering new ways in which to bring value to the business, and more.
 
-We are made up of the following feature teams:
+We are made up of the following feature teams in 2020:
 
 **Incubate**\
 Seed a handful of innovative projects every year that may turn into The Next Big Thing. 2020 is centered around automation.
