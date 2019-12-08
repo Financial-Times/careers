@@ -80,11 +80,21 @@ We have roles available from **Junior Engineer** to **Principal Engineer** in In
 Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition in any role.
 
 [Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
-- Junior Engineer
-- Engineer
-- Senior 1 Engineer
-- Senior 2 Engineer
-- Principal Engineer
+
+#### Junior Engineer
+> Coming soon
+
+#### Engineer
+> As an Engineer you are proficient in the technical systems that you working on. You are aware and guided by the wider context of your work. You enjoy taking responsibility for your work and own your personal development. You work as part of a team to achieve the shared goals of the team.
+
+#### Senior 1 Engineer
+> As a Senior 1 engineer you improve the performance of those around you. This could be through official responsibilities such as line managing or tech leading, or through unofficial means such as mentoring or regular pairing. As a S1 engineer you enjoy tackling complex technical problems, and articulating your approach to your team. You thrive on being responsible for work outside of your immediate delivery team and manage that work effectively against your team’s priorities. Your require very little oversight beyond high level direction.
+
+#### Senior 2 Engineer
+> As a Senior 2 engineer you are known for your leadership and influence well beyond yourself. This influence could be through tech leading, line managing, mentoring, or leading projects outside of your day-to-day work. As a Senior 2 engineer, you thrive on seeing ill-defined or difficult projects through to completion. You are great at spotting issues and helping your team navigate them. You also have a deep technical understanding and willingness to help others for a particular technology or product.
+
+#### Principal Engineer
+> Coming soon
 
 ### The hiring process
 
