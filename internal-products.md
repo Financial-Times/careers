@@ -58,7 +58,7 @@ Most of our dev work happens in Node, but you don't need specific experience in 
 As a Junior Engineer you are getting started in your engineering career. You may have finished a coding bootcamp, apprenticeship, university, another junior role, or just switched careers. You are eager to grow your learning of software development. You enjoy solving problems with code as part of a wider technical team. You tackle well-defined software features and iterate your implementation with the support of your team.
 
 #### Engineer ([Apply](#apply))
-As an Engineer you are proficient in the technical systems that you working on. You are aware and guided by the wider context of your work. You enjoy taking responsibility for your work and own your personal development. You work as part of a team to achieve the shared goals of the team.
+As an Engineer you are proficient in the technical systems that you are working on. You are aware and guided by the wider context of your work. You enjoy taking responsibility for your work and own your personal development. You work as part of a team to achieve the shared goals of the team.
 
 #### Senior 1 Engineer ([Apply](#apply))
 As a Senior 1 engineer you improve the performance of those around you. This could be through official responsibilities such as line managing or tech leading, or through unofficial means such as mentoring or regular pairing. As a S1 engineer you enjoy tackling complex technical problems, and articulating your approach to your team. You thrive on being responsible for work outside of your immediate delivery team and manage that work effectively against your team’s priorities. Your require very little oversight beyond high level direction.
