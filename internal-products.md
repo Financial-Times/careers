@@ -48,7 +48,7 @@ We have very active communities which you are welcome to participate in such as 
 
 ### Open Roles
 
-We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products. Most roles rotate between a lot of our teams](#the-team-internal-products) over the course of their first 12-18 months. Principal Engineers typically look after one or two of those teams. Senior engineers often lead them or projects within them.  
+We have roles available from **Junior Engineer** to **Principal Engineer** in Internal Products (IP). Most roles rotate between [several IP teams](#the-team-internal-products) over the course of their first 12-18 months. Principal Engineers typically look after one or two of those teams. Senior engineers often lead them or projects within them.  
 
 Most of our dev work happens in Node, but you don't need specific experience in JS to join us. We believe programming skills are highly transferable. Are you proficient in another programming language and want to switch to node? Join us! We'll support you in the transition in any role.
 
