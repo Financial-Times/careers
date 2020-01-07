@@ -9,35 +9,31 @@ On this team you'll work on [FT.com](https://www.ft.com/) and our [mobile apps](
 
 ++
 
-We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
+* [Senior Software Engineer][JR004349], London 🇬🇧, Permanent, JR004349
+* [Software Engineer][JR004388], London 🇬🇧, Permanent, JR004388
+
+[JR004349]: https://ft.wd3.myworkdayjobs.com/FT_External_Careers/job/London-FT/Senior-Software-Engineer_JR004349
+[JR004388]: https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Software-Engineer_JR004388
 
 ## Enterprise Services
 
-This team look after the infrastrucuture & tools that power the FT.
+This team look after the infrastructure & tools that power the FT.
 
 [Greg](https://twitter.com/greg_cope) runs this team.
 
 ++
 
-🇬🇧 [Network Engineer](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Full-stack-Engineer_JR001137) - Southwark Bridge, permanent, ref: JR001137
-
-🇬🇧 [Senior Engineer (Security)](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/OSB-London-35-hours/Senior-Engineer_JR002574) - Southwark Bridge, permanent, ref: JR002574
-
-🇬🇧 [Senior Engineer (Cloud Platforms)](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Senior-Engineer---Cloud-Platforms_JR002822-1) - Southwark Bridge, permanent, ref: JR002822
+We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
 
 ## FT Core
 
 FT Core are responsible for our data, subscription and content publishing platforms & APIs.
 
-[Jon](https://twitter.com/jonfurse) runs this team.
+Kristina runs this team.
 
 ++
 
-🇧🇬 [Senior Engineer, FT Core](https://stackoverflow.com/jobs/186848/senior-engineer-delivering-innovative-solutions-financial-times?a=e7F9GP17I7Fn6W9a) - Sofia, permanent
-
-🇧🇬 [Data Engineer (Java, Cloud, Big Data), FT Core](https://stackoverflow.com/jobs/194264/data-engineer-python-sql-cloud-big-data-financial-times) - Sofia, permanent
-
-🇧🇬 [Junior Engineer, FT Core](https://stackoverflow.com/jobs/186083/junior-engineer-to-join-the-ft-product-and-financial-times) - Sofia, permanent
+We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
 
 ## Internal Products
 
@@ -47,9 +43,7 @@ This team looks after [all the internal-facing software](http://matt.chadburn.co
 
 ++
 
-### Full-stack JS roles
-
-🇬🇧 Software Engineer (Editorial tools), Permanent, [JR003025](https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Software-Engineer_JR003025)
+You can find out more about our team and see our open vacancies in [internal-products.md](internal-products.md).
 
 ## Operations and Reliability
 
