@@ -51,9 +51,9 @@ This team is dedicated to transforming the way we support delivery teams, execut
 
 [Sarah](https://twitter.com/sarahjwells) runs this team.
 
-++
+* [Senior Software Engineer][JR004605], London 🇬🇧, Permanent, JR004605
 
-We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
+We'll also consider more junior engineers if we think you'd bring something interesting to the team. Be sure to include a note in your application if you're seeking a more junior role.
 
 ## FT Group Products
 
