@@ -13,7 +13,7 @@ On this team you'll work on [FT.com](https://www.ft.com/) and our [mobile apps](
 * [Software Engineer][JR004388], London 🇬🇧, Permanent, JR004388
 
 [JR004387]: https://ft.wd3.myworkdayjobs.com/FT_External_Careers/job/London-FT/Senior-Software-Engineer_JR004387
-[JR004388]: https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Software-Engineer_JR004388
+[JR004388]: https://ft.wd3.myworkdayjobs.com/FT_External_Careers/job/London-FT/Software-Engineer_JR004388
 
 ## Enterprise Services
 
