@@ -9,8 +9,8 @@ On this team you'll work on [FT.com](https://www.ft.com/) and our [mobile apps](
 
 ++
 
-* [Senior Software Engineer][JR004387], London 🇬🇧, Permanent, JR004387
-* [Software Engineer][JR004388], London 🇬🇧, Permanent, JR004388
+* [Senior Software Engineer][JR004387], London 🇬🇧, Permanent
+* [Software Engineer][JR004388], London 🇬🇧, Permanent
 
 [JR004387]: https://ft.wd3.myworkdayjobs.com/FT_External_Careers/job/London-FT/Senior-Software-Engineer_JR004387
 [JR004388]: https://ft.wd3.myworkdayjobs.com/FT_External_Careers/job/London-FT/Software-Engineer_JR004388
@@ -23,7 +23,7 @@ This team look after the infrastructure & tools that power the FT.
 
 ++
 
-* [Senior Engineer Cloud Platforms][JR004648], London 🇬🇧, Permanent, JR004648
+* [Senior Engineer Cloud Platforms][JR004648], London 🇬🇧, Permanent
 
 [JR004648]: https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Senior-Engineer---Cloud-Platforms_JR004648
 
@@ -53,7 +53,7 @@ This team is dedicated to transforming the way we support delivery teams, execut
 
 [Sarah](https://twitter.com/sarahjwells) runs this team.
 
-* [Senior Software Engineer][JR004605], London 🇬🇧, Permanent, JR004605
+* [Senior Software Engineer][JR004605], London 🇬🇧, Permanent
 
 We'll also consider more junior engineers if we think you'd bring something interesting to the team. Be sure to include a note in your application if you're seeking a more junior role.
 
