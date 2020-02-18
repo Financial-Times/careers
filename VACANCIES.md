@@ -23,7 +23,9 @@ This team look after the infrastructure & tools that power the FT.
 
 ++
 
-We don't have any vacancies in this team at the moment but feel free [drop us a line](README.md#contact).
+* [Senior Engineer Cloud Platforms][JR004648], London 🇬🇧, Permanent, JR004648
+
+[JR004648]: https://ft.wd3.myworkdayjobs.com/en-US/FT_External_Careers/job/London-FT/Senior-Engineer---Cloud-Platforms_JR004648
 
 ## FT Core
 
