@@ -1,10 +1,10 @@
 # Hi! 👋 We're FT Tech
 
-In FT Tech we develop products like FT.com, our [award-winning website](https://aboutus.ft.com/en-gb/announcements/ft-technology-wins-at-devops-digiday-awards/) and one of the [fastest news sites](https://webperf.xyz/) in the world. We are firm supporters of open source and develop more and more of our projects [in the open](https://github.com/Financial-Times) every day. Some of our most widely used OSS are [Polyfill.io](https://polyfill.io/v2/docs/) and [Origami](http://origami.ft.com/).
+In FT Tech we develop products like FT.com, our [award-winning website](https://aboutus.ft.com/en-gb/announcements/ft-technology-wins-at-devops-digiday-awards/) and one of the [fastest news sites](https://webperf.xyz/) in the world. We are firm supporters of open source and develop more and more of our projects [in the open](https://github.com/Financial-Times) every day. Some of our most widely used projects are [Polyfill.io](https://polyfill.io/v2/docs/) and [Origami](http://origami.ft.com).
 
 We are hundreds of engineers, but our teams are small, self-governing and multi-disciplined, empowered to choose our own tech stack and to continuously deploy our software, sometimes hundreds of times a day.
 
-Our projects are widely varied in scale and scope -- you could choose to work on anything from an internal bot with a couple of hundred users, to a system with 4.2 billion requests per month -- using [microservices](https://www.youtube.com/watch?v=lC5SfTMFK3M), [machine learning](https://www.youtube.com/watch?v=7iPP2tltt-0), [augmented reality](https://labs.ft.com/experiment/2017/06/06/inklink.html), and more.
+Our projects are widely varied in scale and scope (you could choose to work on anything from an internal bot with a couple of hundred users, to a system with 4.2 billion requests per month) using [microservices](https://www.youtube.com/watch?v=lC5SfTMFK3M), [machine learning](https://www.youtube.com/watch?v=7iPP2tltt-0), [augmented reality](https://labs.ft.com/experiment/2017/06/06/inklink.html), and more.
 
 Our ideal candidate will bring a unique point of view to the work we do. We don't hire for team fit, we hire for team _betterment_; diverse perspectives help us build a great product, and even better teams.
 
@@ -34,6 +34,7 @@ We have very active communities which you are welcome to participate in such as 
 
 We understand that tech interviews are often stressful for no good reason, so we designed our interview process
 to be rigorous but friendly (we won’t expect you to reverse a binary tree on a whiteboard or peer over your shoulder when you’re writing code).
+
 We’re committed to furthering equality and diversity in the tech industry, so we’ll be especially happy to see
 applications from underrepresented backgrounds.
 
@@ -58,17 +59,17 @@ Benefits of our permanent roles also include:
 - Charitable give as you earn scheme & fundraising (location specific)
 
 
-More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985)
+More on [what it's like to work in FT Tech](https://twitter.com/lc512k/status/933748080356265985).
 
 
 ### Roles available
 
 We have roles available from Junior to Senior Engineer in a variety of teams. Most roles are permanent, but there are also contracting opportunities.
 
-See [Vacancies](VACANCIES.md) for the current roles.
+See [VACANCIES.md](VACANCIES.md) for our current roles.
 
 ### Contact
 
-Have any questions or want to send us your CV then please email [talent@ft.com](mailto:talent@ft.com) or [christine.ng@ft.com](mailto:christine.ng@ft.com)
+Have any questions or want to send us your CV then please email [talent@ft.com](mailto:talent@ft.com).
 
 Direct applicants only, please.
