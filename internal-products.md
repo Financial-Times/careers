@@ -16,7 +16,7 @@ You can read more [about us](https://aboutus.ft.com/en-gb/careers/our-people/) o
 * [Our Culture](#our-culture)
 * [The Team: Internal Products](#the-team-internal-products)
 * [The Roles](#open-roles)
-  * [Junior Engineer](#junior-engineer-apply)
+  * [Junior Engineer](#junior-engineer-all-4-positions-filled)
   * [Engineer](#Engineer-apply)
   * [Senior 1 Engineer](#senior-1-engineer-apply)
   * [Senior 2 Engineer](#senior-2-engineer-apply)
@@ -54,7 +54,7 @@ Most of our dev work happens in Node, but you don't need specific experience in 
 
 [Our career progression is public](https://engineering-progression.ft.com/) and we have vacancies in all of the levels for 2020:
 
-#### Junior Engineer ([Apply](#apply))
+#### Junior Engineer (All 4 positions filled!)
 As a Junior Engineer you are getting started in your engineering career. You may have finished a coding bootcamp, apprenticeship, university, another junior role, or just switched careers. You are eager to grow your learning of software development. You enjoy solving problems with code as part of a wider technical team. You tackle well-defined software features and iterate your implementation with the support of your team.
 
 #### Engineer ([Apply](#apply))
