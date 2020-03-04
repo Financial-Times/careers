@@ -31,7 +31,7 @@ This team look after the infrastructure & tools that power the FT.
 
 FT Core are responsible for our data, subscription and content publishing platforms & APIs.
 
-Kristina runs this team.
+[Kristina](https://www.linkedin.com/in/kristina-stoitsova-45b5743/) runs this team.
 
 ++
 
