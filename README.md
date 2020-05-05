@@ -1,3 +1,7 @@
+***
+May 5, 2000: **All of our roles are currently frozen. Apologies! Please check back later in the year for updates**
+***
+
 # Hi! 👋 We're FT Tech
 
 In FT Tech we develop products like FT.com, our [award-winning website](https://aboutus.ft.com/en-gb/announcements/ft-technology-wins-at-devops-digiday-awards/) and one of the [fastest news sites](https://webperf.xyz/) in the world. We are firm supporters of open source and develop more and more of our projects [in the open](https://github.com/Financial-Times) every day. Some of our most widely used projects are [Polyfill.io](https://polyfill.io/v2/docs/) and [Origami](http://origami.ft.com).
