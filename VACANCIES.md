@@ -1,3 +1,6 @@
+***
+May 5, 2000: **All of our roles are currently frozen. Apologies! Please check back later in the year for updates**
+***
 
 Hi, here's a list of all the open engineering roles at the FT.
 
