@@ -123,19 +123,21 @@ work from home when needed.
 
 Benefits of our permanent roles also include:
 
-- Work-life balance: Flexible hours, work from home when you need
+- Work-life balance: Flexible hours. Work from home until December 2021 (or further, if it's still not safe to come to the office by then)
+- ~10% performance-based bonus (from 2021)
 - 25 days holiday increases to 30 days after 2 years
-- Triple pension: For every £1 you put towards your pension the FT put £2, up to 6% of your salary (8% over 45)
+- Triple pension: For every £1 you put towards your pension the FT put £2, up to 6% of your salary (8% over 45). (This has modified to  be single-matching for 2020 and back to tripple from 2021)
 - Conference, travel and training budget. We frequently attend and often sponsor conferences like JSConfEU, LeadDev, FFConf...
 - Friendly, vibrant and sociable team of 250+
 - Shared parental leave
-- Kit of your choice - Dell, MacBook Pro or Chromebook
+- Kit of your choice - Dell, MacBook Pro or Chromebook. Budget available for desk, office chair and other kit on request.
 - Subsidised gym membership at [Nuffield Health City](https://www.nuffieldhealth.com/gyms/city)
 - FT matches your charitable donations up to £500 every year
 - Free premium subscription to [ft.com](https://www.ft.com/)
 - Private healthcare & subsidised dental scheme
 - Season ticket loan
 - Cycle to work scheme
+- Employee assistance programme with [Health Assured](https://www.healthassured.org/)
 
 ### Apply
 
