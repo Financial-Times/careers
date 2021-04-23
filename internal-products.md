@@ -1,6 +1,3 @@
-***
-May 5, 2020: **All of our roles are currently frozen. Apologies! Please check back later in the year for updates**
-***
 
 # Hi! 👋 We're FT Tech
 
